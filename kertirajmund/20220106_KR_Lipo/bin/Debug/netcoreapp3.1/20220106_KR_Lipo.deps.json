@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "20220106_KR_Lipo/1.0.0": {
+        "runtime": {
+          "20220106_KR_Lipo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20220106_KR_Lipo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

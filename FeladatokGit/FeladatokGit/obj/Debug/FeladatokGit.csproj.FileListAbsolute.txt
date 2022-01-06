@@ -1,0 +1,7 @@
+C:\Users\72173665289\source\repos\FeladatokGit\FeladatokGit\bin\Debug\FeladatokGit.exe.config
+C:\Users\72173665289\source\repos\FeladatokGit\FeladatokGit\bin\Debug\FeladatokGit.exe
+C:\Users\72173665289\source\repos\FeladatokGit\FeladatokGit\bin\Debug\FeladatokGit.pdb
+C:\Users\72173665289\source\repos\FeladatokGit\FeladatokGit\obj\Debug\FeladatokGit.csproj.AssemblyReference.cache
+C:\Users\72173665289\source\repos\FeladatokGit\FeladatokGit\obj\Debug\FeladatokGit.csproj.CoreCompileInputs.cache
+C:\Users\72173665289\source\repos\FeladatokGit\FeladatokGit\obj\Debug\FeladatokGit.exe
+C:\Users\72173665289\source\repos\FeladatokGit\FeladatokGit\obj\Debug\FeladatokGit.pdb

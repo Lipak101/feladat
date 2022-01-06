@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeladatokGit", "FeladatokGit\FeladatokGit.csproj", "{3C80F0F5-FDB3-4B9A-A978-CB3232C64572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeladatokDeMorgan", "FeladatokDeMorgan\FeladatokDeMorgan.csproj", "{FC898916-D337-4C3D-BFA3-860453F45BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C80F0F5-FDB3-4B9A-A978-CB3232C64572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C80F0F5-FDB3-4B9A-A978-CB3232C64572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C80F0F5-FDB3-4B9A-A978-CB3232C64572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C80F0F5-FDB3-4B9A-A978-CB3232C64572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC898916-D337-4C3D-BFA3-860453F45BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC898916-D337-4C3D-BFA3-860453F45BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC898916-D337-4C3D-BFA3-860453F45BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC898916-D337-4C3D-BFA3-860453F45BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53539B85-2203-4B87-A6FA-0D98275ED3ED}
+	EndGlobalSection
+EndGlobal

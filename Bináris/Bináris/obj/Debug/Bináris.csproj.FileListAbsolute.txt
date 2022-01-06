@@ -1,0 +1,8 @@
+C:\Users\Bence\source\repos\Bináris\Bináris\bin\Debug\Bináris.exe.config
+C:\Users\Bence\source\repos\Bináris\Bináris\bin\Debug\Bináris.exe
+C:\Users\Bence\source\repos\Bináris\Bináris\bin\Debug\Bináris.pdb
+C:\Users\Bence\source\repos\Bináris\Bináris\obj\Debug\Bináris.csproj.AssemblyReference.cache
+C:\Users\Bence\source\repos\Bináris\Bináris\obj\Debug\Bináris.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bence\source\repos\Bináris\Bináris\obj\Debug\Bináris.csproj.CoreCompileInputs.cache
+C:\Users\Bence\source\repos\Bináris\Bináris\obj\Debug\Bináris.exe
+C:\Users\Bence\source\repos\Bináris\Bináris\obj\Debug\Bináris.pdb
